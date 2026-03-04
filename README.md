@@ -66,7 +66,7 @@
 
 ## 📫 Connect With Me  
 
-- 💌 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- 💌 **Email:** chaudharyjanukaa@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
 - 🌐 **Portfolio:** [your-portfolio.com](#)  
 - 💻 **GitHub:** [github.com/Janukachaudhary](https://github.com/Janukachaudhary)  
