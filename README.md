@@ -67,7 +67,7 @@
 ## 📫 Connect With Me  
 
 - 💌 **Email:** chaudharyjanukaa@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- 💼 **LinkedIn:** www.linkedin.com/in/janukaa-chaudhary-574157338 
 - 🌐 **Portfolio:** [your-portfolio.com](#)  
 - 💻 **GitHub:** [github.com/Janukachaudhary](https://github.com/Janukachaudhary)  
 
