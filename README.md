@@ -68,8 +68,8 @@
 
 - 💌 **Email:** chaudharyjanukaa@gmail.com
 - 💼 **LinkedIn:** www.linkedin.com/in/janukaa-chaudhary-574157338 
-- 🌐 **Portfolio:** [your-portfolio.com](#)  
-- 💻 **GitHub:** [github.com/Janukachaudhary](https://github.com/Janukachaudhary)  
+- 🌐 **Portfolio:** https://github.com/Janukachaudhary/januka-portfolio
+- 💻 **GitHub:** [github.com/Janukachaudhary](https://github.com/Janukachaudhary) 
 
 
 
