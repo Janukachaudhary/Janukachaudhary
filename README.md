@@ -1,7 +1,7 @@
 # Hi 👋 I'm Januka Chaudhary
 
 🎓 IT Student from Nepal | 💻 Frontend Developer  
-✨ Chill, cool & creative developer | 📚 Bookworm who loves coding & designing
+✨ Chill, cool & creative developer | 📚 Bookworm who loves coding
 
 ---
 
