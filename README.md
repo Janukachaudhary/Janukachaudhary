@@ -72,9 +72,9 @@ I'm a passionate frontend developer and IT student from Nepal who loves building
 
 <div align="center">
 
-![Januka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janukachaudhary&show_icons=true&theme=dark&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janukachaudhary&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app)
 
 </div>
 
