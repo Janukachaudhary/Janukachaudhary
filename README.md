@@ -68,8 +68,6 @@ I'm a passionate frontend developer and IT student from Nepal who loves building
 
 ---
 
----
-
 ## 📈 Performance Metrics
 
 <div align="center">
@@ -84,6 +82,7 @@ I'm a passionate frontend developer and IT student from Nepal who loves building
 
 </div>
 
+---
 
 ## 🎯 Current Goals
 
