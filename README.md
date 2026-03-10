@@ -72,9 +72,9 @@ I'm a passionate frontend developer and IT student from Nepal who loves building
 
 <div align="center">
 
-![Januka's GitHub Stats](https://github-readme-stats.vercel.app)
+![Januka's GitHub Stats](https://github-stats-alpha.vercel.app)
 
-![Top Languages](https://github-readme-stats.vercel.app)
+![Top Languages](https://github-stats-alpha.vercel.app)
 
 </div>
 
