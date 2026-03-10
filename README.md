@@ -68,16 +68,21 @@ I'm a passionate frontend developer and IT student from Nepal who loves building
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📈 Performance Metrics
 
 <div align="center">
 
-![Januka's GitHub Stats](https://github-stats-alpha.vercel.app)
+<!-- This is the Streak Stats Card -->
+![Januka's Streak](https://github-readme-streak-stats.herokuapp.com)
 
-![Top Languages](https://github-stats-alpha.vercel.app)
+<br/>
+
+<!-- This is the Contribution Analysis Graph -->
+![Januka's Activity Graph](https://github-readme-activity-graph.vercel.app)
 
 </div>
-
 
 
 ## 🎯 Current Goals
