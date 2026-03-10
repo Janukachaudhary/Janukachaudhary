@@ -72,13 +72,12 @@ I'm a passionate frontend developer and IT student from Nepal who loves building
 
 <div align="center">
 
-![Januka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janukachaudhary&show_icons=true&theme=tokyonight)
+![Januka's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janukachaudhary&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app)
 
 </div>
 
----
 
 ## 🎯 Current Goals
 
